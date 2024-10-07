@@ -1,6 +1,6 @@
 ## How to start project
- You must Downloadc or lone the project : https://github.com/DucAudi/smart_home.git
- Open the project then run command "npm install "
+ * You must Downloadc or lone the project : https://github.com/DucAudi/smart_home.git
+ * open the project then run command "npm install "
 
 
 
