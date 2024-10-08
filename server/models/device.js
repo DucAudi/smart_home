@@ -4,8 +4,9 @@ const mongoose = require('mongoose');
 
 const deviceSchema = new mongoose.Schema({
   name: {
-    type: String,
+    type: Boolean,
     required: true
+
   },
   icon: {
     type: String,
